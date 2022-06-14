@@ -1,4 +1,4 @@
-//111 1
+//111 1 1
 Procedure EditTrialBalanceAccounts(Result, AdditionalParameters) Export
 	If Result = Undefined Then
 		Return;
